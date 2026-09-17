@@ -39,7 +39,7 @@ exit 1
 esac
 
 cat > ~/.bashrc <<EOF
-clear
+
 
 PS1='\[$COLOR\]┌──(${NAME}㉿kali)-[\w]
 └─# \[\e[0m\]'
